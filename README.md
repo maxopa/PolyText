@@ -285,7 +285,7 @@ newline          = "\n" | "\r\n" ;
 
 ## Status
 
-PolyText (PTXT) v1.0 — stable reference specification.
+PolyText (PTXT) v1.0 — stable reference specification. By Maxopa and Axiom.
 
 ## License
 
